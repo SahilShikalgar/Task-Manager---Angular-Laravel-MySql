@@ -13,8 +13,8 @@ task_youtube - contains laravel project
 
 	1) Cut and paste this folder to htdocs
 
-	2) Change the sql credentails in .env and database name.
-	
+	2) Change the sql credentials in .env and database name.
+
 
 
 
